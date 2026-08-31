@@ -1,0 +1,64 @@
+about:
+  description: Programmable completion functions for bash
+  license: GPL-2.0
+  homepage: 
+  head: ce5869f
+  archived: false
+  latestVersion: 2.18.0
+  collectedAt: 2026-08-31T05:52:15Z
+timeline:
+  created: 2016-02-09
+  lastCommit: 2026-08-28
+  lastRelease: 2026-07-05
+popularity:
+  star: 3510
+  watcher: 51
+  fork: 419
+  release: 17
+  contributor: 183
+  pullRequest: 223
+  issue: 517
+language:
+  Shell: 1061400
+  Python: 483883
+  Makefile: 45909
+  Dockerfile: 4441
+  Awk: 3800
+  Perl: 2557
+  M4: 1131
+  CMake: 653
+  Emacs Lisp: 222
+totalLine: 1603996
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 14
+    openPR: 0
+    closedIssue: 1
+    openIssue: 3
+    commit: 19
+  last90d:
+    since: 2026-06-02
+    release: 1
+    mergedPR: 75
+    openPR: 3
+    closedIssue: 5
+    openIssue: 5
+    commit: 124
+  last180d:
+    since: 2026-03-04
+    release: 1
+    mergedPR: 116
+    openPR: 8
+    closedIssue: 12
+    openIssue: 7
+    commit: 161
+  last360d:
+    since: 2025-09-05
+    release: 2
+    mergedPR: 233
+    openPR: 9
+    closedIssue: 25
+    openIssue: 13
+    commit: 349
