@@ -7,7 +7,7 @@ about:
   head: 19695e3
   archived: false
   latestVersion: 2.18.0
-  collectedAt: 2026-09-04T19:48:28Z
+  collectedAt: 2026-09-04T20:50:34Z
 timeline:
   created: 2016-02-09
   lastCommit: 2026-09-03
@@ -88,6 +88,119 @@ total:
   openIssue: 158
   commit: 7534
 ---
+path: /home/runner/.x-repo/github.com/scop/bash-completion
+collectedAt: 2026-09-04T20:50:36Z
+loc:
+  Bash:
+    code: 25897
+    comments: 2429
+    blanks: 3171
+    files: 550
+  Python:
+    code: 12695
+    comments: 286
+    blanks: 3313
+    files: 775
+  Automake:
+    code: 2488
+    comments: 10
+    blanks: 43
+    files: 12
+  Sh:
+    code: 591
+    comments: 49
+    blanks: 81
+    files: 15
+  Dockerfile:
+    code: 129
+    comments: 2
+    blanks: 20
+    files: 6
+  AWK:
+    code: 73
+    comments: 39
+    blanks: 15
+    files: 1
+  Autoconf:
+    code: 34
+    comments: 6
+    blanks: 8
+    files: 4
+  Xml:
+    code: 29
+    comments: 6
+    blanks: 2
+    files: 4
+  Bitbake:
+    code: 27
+    comments: 7
+    blanks: 0
+    files: 3
+  Toml:
+    code: 24
+    comments: 2
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 10
+    comments: 0
+    blanks: 1
+    files: 1
+  Yaml:
+    code: 10
+    comments: 0
+    blanks: 5
+    files: 1
+  C:
+    code: 7
+    comments: 0
+    blanks: 1
+    files: 1
+  Ini:
+    code: 7
+    comments: 0
+    blanks: 2
+    files: 2
+  Perl:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 2
+  Java:
+    code: 5
+    comments: 7
+    blanks: 0
+    files: 1
+  D:
+    code: 2
+    comments: 0
+    blanks: 1
+    files: 1
+  Ruby:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  CHeader:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3435
+    blanks: 398
+    files: 10
+  Text:
+    code: 0
+    comments: 675
+    blanks: 10
+    files: 18
+total:
+  code: 42109
+  comments: 6962
+  blanks: 7075
+  files: 1410
 ---
 date: "2026-09-03T02:10:09Z"
 repo:
