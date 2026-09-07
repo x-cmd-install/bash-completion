@@ -5,13 +5,13 @@ about:
   head: 19695e3
   archived: false
   latestVersion: "2.18.0"
-  collectedAt: 2026-09-07T05:50:51Z
+  collectedAt: 2026-09-07T18:38:11Z
 timeline:
   created: 2016-02-09
   lastCommit: 2026-09-03
   lastRelease: 2026-07-05
 popularity:
-  star: 3517
+  star: 3518
   watcher: 51
   fork: 419
   release: 17
@@ -87,7 +87,7 @@ total:
   commit: 7534
 ---
 path: /home/runner/.x-repo/github.com/scop/bash-completion
-collectedAt: 2026-09-07T05:50:56Z
+collectedAt: 2026-09-07T18:38:16Z
 loc:
   Bash:
     code: 25897
@@ -333,7 +333,7 @@ checks:
       - 'Info: found contributions from: AOSC-Dev, Bumblebee-Project, CatNetworks, DENSE-Collaboration, FZUG, ISRC-CAS, LCTT, Moritz-Systems, NetBSD, NyaaCat, Renater, TeaCI, UbuntuKylin, UpCloudLtd, WHLUG, WineAsCI, YukariExpress, apple, arch linux @archlinux, archlinux, archlinux-riscv, archlinuxcn, bash-collection, cademia, cpprefjp, cutefishos, debian-dde-team, dracula, fossasia, gentoo, gentoo-crate-dist, gentoo-mirror, golangci, home-assistant, idthic, libwww-perl, linuxdeepin, llvm, loongson-community, mend, mirrorz-org, projg2, pwr-Solaar, python-hyper, quansight-labs, rpm-software-management, sb-sb, scallop, schrodinger, shenv, sjtug, sophgocommunity, tuna, ukui, upcloudltd, wireshark'
 ---
 eget:
-  collectedAt: 2026-09-07T05:50:57+00:00
+  collectedAt: 2026-09-07T18:38:17+00:00
   platform:
     darwin/arm64:
       name:  null
