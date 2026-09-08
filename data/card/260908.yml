@@ -5,7 +5,7 @@ about:
   head: 19695e3
   archived: false
   latestVersion: "2.18.0"
-  collectedAt: 2026-09-08T03:04:27Z
+  collectedAt: 2026-09-08T05:41:01Z
 timeline:
   created: 2016-02-09
   lastCommit: 2026-09-03
@@ -87,7 +87,7 @@ total:
   commit: 7534
 ---
 path: /home/runner/.x-repo/github.com/scop/bash-completion
-collectedAt: 2026-09-08T03:04:32Z
+collectedAt: 2026-09-08T05:41:06Z
 loc:
   Bash:
     code: 25897
