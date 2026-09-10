@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 492024,
       "digest": "sha256:88bcf85124f77f74f2f2f8bcd16ac4382d807a827ede742a64940c7116aea33f",
-      "download_count": 9927,
+      "download_count": 10078,
       "created_at": "2026-07-05T08:09:41Z",
       "updated_at": "2026-07-05T08:09:41Z",
       "browser_download_url": "https://github.com/scop/bash-completion/releases/download/2.18.0/bash-completion-2.18.0.tar.xz"
