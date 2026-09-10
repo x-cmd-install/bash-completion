@@ -12,35 +12,7 @@ Programmable completion functions for bash
 x install bash-completion
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/scop/bash-completion>
-- **License**: GPL-2.0
-
-## Release
-
-- **Latest**: `2.18.0` (2026-07-05)
-- **Last commit**: 2026-09-03
-- **Assets in release**: 1
-- **Published**: 2026-07-05T08:13:49Z
-
-## Popularity
-
-- **Stars**: 3,518 · **Forks**: 419 · **Open issues**: 517 · **Contributors**: 183
-
-## Totals (cumulative)
-
-- **Releases**: 17 · **Merged PRs**: 953 · **Open PRs**: 66 · **Closed issues**: 359 · **Open issues**: 158 · **Commits**: 7534
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 4 | 2 | 0 | 2 | 6 |
-| 90d | 2026-06-12 | 1 | 74 | 5 | 5 | 5 | 117 |
-| 360d | 2025-09-15 | 2 | 230 | 11 | 24 | 13 | 349 |
-
-## Code size
+## Code insight
 
 Total: **42,037** lines of code across **1358** files in the top 5 languages.
 
@@ -62,13 +34,68 @@ Lowest-scoring checks:
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **Fuzzing** (0/10) — project is not fuzzed
 
+## Source
+
+- **Upstream**: <https://github.com/scop/bash-completion>
+- **License**: GPL-2.0
+
+## Release
+
+- **Latest**: `2.18.0` (2026-07-05)
+- **Last commit**: 2026-09-03
+- **Assets in release**: 1
+
+## Popularity
+
+- **Stars**: 3,518 · **Forks**: 419 · **Open issues**: 517 · **Contributors**: 183
+
+## Totals (cumulative)
+
+- **Releases**: 17 · **Merged PRs**: 953 · **Open PRs**: 66 · **Closed issues**: 359 · **Open issues**: 158 · **Commits**: 7534
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 4 | 2 | 0 | 2 | 6 |
+| last60d | 2026-07-12 | 0 | 34 | 4 | 4 | 3 | 48 |
+| 90d | 2026-06-12 | 1 | 74 | 5 | 5 | 5 | 117 |
+| last180d | 2026-03-14 | 1 | 114 | 10 | 10 | 7 | 162 |
+| 360d | 2025-09-15 | 2 | 230 | 11 | 24 | 13 | 349 |
+| last720d | 2024-09-20 | 4 | 357 | 18 | 44 | 25 | 754 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [bash-completion-2.18.0.tar.xz](https://github.com/scop/bash-completion/releases/download/2.18.0/bash-completion-2.18.0.tar.xz) | 480.5 KiB | `other` |
+
+## Distribution status
+
+Reported by **202** distros on [repology.org](https://repology.org/project/bash-completion). **35** are ✅ on the latest upstream release, **151** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.16.0` | ⚠️ outdated |
+| Debian 14 | `2.16.0` | ⚠️ outdated |
+| Debian 13 | `2.16.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.16.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.11` | ⚠️ outdated |
+| Arch | `2.18.0` | ✅ latest |
+| Homebrew | `1.3` | 🪦 legacy |
+| Fedora rawhide | `2.18` | ✅ latest |
+| Nix unstable | `2.18.0` | ✅ latest |
+| Void | `2.16.0` | ⚠️ outdated |
+| Alpine edge | `2.17.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.12.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for bash-completion lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bash-completion` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/bash-completion.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/bash-completion.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:03:53Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:26:11Z._
