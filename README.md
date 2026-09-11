@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,518 · **Forks**: 419 · **Open issues**: 517 · **Contributors**: 183
+- **Stars**: 3,519 · **Forks**: 419 · **Open issues**: 517 · **Contributors**: 183
 
 ## Totals (cumulative)
 
@@ -98,4 +98,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:49:06Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:03:55Z._
