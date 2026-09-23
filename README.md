@@ -4,7 +4,7 @@
 
 Programmable completion functions for bash
 
-[![x-cmd/install — bash-completion Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bash-completion.svg)](https://x-cmd.com/install/bash-completion)
+[![x-cmd/install — bash-completion Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bash-completion.svg)](https://x-cmd.com/install/bash-completion)
 
 ## Install
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 954 · **Open PRs**: 70 · **Closed issues**: 359 · **Open issues**: 158 · **Commits**: 7535
+- **Releases**: 17 · **Merged PRs**: 954 · **Open PRs**: 71 · **Closed issues**: 359 · **Open issues**: 158 · **Commits**: 7535
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 6 | 0 | 0 | 3 |
-| last60d | 2026-07-24 | 0 | 30 | 6 | 1 | 3 | 32 |
-| 90d | 2026-06-24 | 1 | 72 | 9 | 4 | 5 | 95 |
-| last180d | 2026-03-26 | 1 | 102 | 13 | 9 | 6 | 154 |
-| 360d | 2025-09-27 | 2 | 227 | 15 | 22 | 12 | 343 |
-| last720d | 2024-10-02 | 4 | 357 | 22 | 44 | 25 | 751 |
+| 30d | 2026-08-24 | 0 | 3 | 7 | 0 | 0 | 3 |
+| last60d | 2026-07-25 | 0 | 30 | 7 | 1 | 3 | 32 |
+| 90d | 2026-06-25 | 1 | 69 | 10 | 4 | 5 | 95 |
+| last180d | 2026-03-27 | 1 | 102 | 14 | 9 | 6 | 154 |
+| 360d | 2025-09-28 | 2 | 223 | 16 | 21 | 12 | 343 |
+| last720d | 2024-10-03 | 4 | 357 | 23 | 44 | 25 | 751 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:13:07Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:21:02Z._

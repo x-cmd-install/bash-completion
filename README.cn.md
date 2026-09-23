@@ -4,7 +4,7 @@
 
 Programmable completion functions for bash
 
-[![x-cmd/install — bash-completion Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bash-completion.svg?lang=zh)](https://x-cmd.com/install/bash-completion)
+[![x-cmd/install — bash-completion Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bash-completion.svg?lang=zh)](https://x-cmd.com/install/bash-completion)
 
 ## 安装
 
@@ -51,18 +51,18 @@ x install bash-completion
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 954 · **开放 PR**: 70 · **已关闭 issue**: 359 · **开放 issue**: 158 · **提交数**: 7535
+- **发布数**: 17 · **已合并 PR**: 954 · **开放 PR**: 71 · **已关闭 issue**: 359 · **开放 issue**: 158 · **提交数**: 7535
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 6 | 0 | 0 | 3 |
-| last60d | 2026-07-24 | 0 | 30 | 6 | 1 | 3 | 32 |
-| 90d | 2026-06-24 | 1 | 72 | 9 | 4 | 5 | 95 |
-| last180d | 2026-03-26 | 1 | 102 | 13 | 9 | 6 | 154 |
-| 360d | 2025-09-27 | 2 | 227 | 15 | 22 | 12 | 343 |
-| last720d | 2024-10-02 | 4 | 357 | 22 | 44 | 25 | 751 |
+| 30d | 2026-08-24 | 0 | 3 | 7 | 0 | 0 | 3 |
+| last60d | 2026-07-25 | 0 | 30 | 7 | 1 | 3 | 32 |
+| 90d | 2026-06-25 | 1 | 69 | 10 | 4 | 5 | 95 |
+| last180d | 2026-03-27 | 1 | 102 | 14 | 9 | 6 | 154 |
+| 360d | 2025-09-28 | 2 | 223 | 16 | 21 | 12 | 343 |
+| last720d | 2024-10-03 | 4 | 357 | 23 | 44 | 25 | 751 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ bash-completion 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:13:08Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:21:04Z._
