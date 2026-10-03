@@ -31,8 +31,8 @@ x install bash-completion
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install bash-completion
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 5 | 9 | 0 | 1 | 7 |
-| last60d | 2026-08-03 | 0 | 19 | 9 | 1 | 4 | 29 |
-| 90d | 2026-07-04 | 1 | 47 | 12 | 4 | 5 | 62 |
-| last180d | 2026-04-05 | 1 | 100 | 16 | 8 | 7 | 157 |
-| 360d | 2025-10-07 | 2 | 219 | 18 | 20 | 13 | 337 |
-| last720d | 2024-10-12 | 4 | 359 | 25 | 44 | 26 | 756 |
+| 30d | 2026-09-03 | 0 | 5 | 8 | 0 | 1 | 7 |
+| last60d | 2026-08-04 | 0 | 19 | 9 | 0 | 4 | 29 |
+| 90d | 2026-07-05 | 1 | 46 | 11 | 4 | 4 | 62 |
+| last180d | 2026-04-06 | 1 | 100 | 16 | 8 | 7 | 157 |
+| 360d | 2025-10-08 | 2 | 217 | 18 | 20 | 13 | 337 |
+| last720d | 2024-10-13 | 4 | 359 | 25 | 44 | 26 | 754 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ bash-completion 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T06:36:52Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T06:11:29Z._
