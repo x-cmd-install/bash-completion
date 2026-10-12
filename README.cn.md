@@ -31,8 +31,8 @@ x install bash-completion
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## 源代码
 
@@ -42,27 +42,27 @@ x install bash-completion
 ## 发布
 
 - **最新版本**: `2.18.0` (2026-07-05)
-- **最近提交**: 2026-10-01
+- **最近提交**: 2026-10-11
 - **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 3,529 · **Fork**: 422 · **开放 issue**: 518 · **贡献者**: 183
+- **Star**: 3,530 · **Fork**: 422 · **开放 issue**: 518 · **贡献者**: 183
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 958 · **开放 PR**: 71 · **已关闭 issue**: 359 · **开放 issue**: 159 · **提交数**: 7541
+- **发布数**: 17 · **已合并 PR**: 959 · **开放 PR**: 70 · **已关闭 issue**: 359 · **开放 issue**: 159 · **提交数**: 7542
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 5 | 7 | 0 | 1 | 6 |
-| last60d | 2026-08-12 | 0 | 9 | 9 | 0 | 3 | 11 |
-| 90d | 2026-07-13 | 0 | 39 | 11 | 4 | 4 | 51 |
-| last180d | 2026-04-14 | 1 | 97 | 15 | 8 | 7 | 150 |
-| 360d | 2025-10-16 | 2 | 211 | 17 | 19 | 13 | 312 |
-| last720d | 2024-10-21 | 4 | 357 | 25 | 44 | 26 | 751 |
+| 30d | 2026-09-12 | 0 | 6 | 6 | 0 | 1 | 7 |
+| last60d | 2026-08-13 | 0 | 9 | 8 | 0 | 3 | 12 |
+| 90d | 2026-07-14 | 0 | 40 | 10 | 4 | 4 | 52 |
+| last180d | 2026-04-15 | 1 | 98 | 14 | 8 | 7 | 151 |
+| 360d | 2025-10-17 | 2 | 211 | 16 | 19 | 13 | 313 |
+| last720d | 2024-10-22 | 4 | 358 | 24 | 44 | 26 | 752 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ bash-completion 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261011.yml` · 2026-10-11T06:42:07Z._
+_数据快照: `data/card/261012.yml` · 2026-10-12T06:58:04Z._
