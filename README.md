@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.18.0` (2026-07-05)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 3,535 · **Forks**: 423 · **Open issues**: 518 · **Contributors**: 184
+- **Stars**: 3,536 · **Forks**: 423 · **Open issues**: 518 · **Contributors**: 184
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 960 · **Open PRs**: 69 · **Closed issues**: 359 · **Open issues**: 159 · **Commits**: 7543
+- **Releases**: 17 · **Merged PRs**: 961 · **Open PRs**: 69 · **Closed issues**: 359 · **Open issues**: 159 · **Commits**: 7544
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 7 | 4 | 0 | 1 | 8 |
-| last60d | 2026-08-15 | 0 | 10 | 7 | 0 | 3 | 13 |
-| 90d | 2026-07-16 | 0 | 41 | 9 | 4 | 4 | 53 |
-| last180d | 2026-04-17 | 1 | 98 | 13 | 8 | 7 | 152 |
-| 360d | 2025-10-19 | 2 | 211 | 15 | 19 | 13 | 314 |
-| last720d | 2024-10-24 | 4 | 358 | 23 | 44 | 26 | 753 |
+| 30d | 2026-09-15 | 0 | 7 | 4 | 0 | 1 | 9 |
+| last60d | 2026-08-16 | 0 | 11 | 7 | 0 | 3 | 14 |
+| 90d | 2026-07-17 | 0 | 42 | 8 | 3 | 4 | 54 |
+| last180d | 2026-04-18 | 1 | 99 | 13 | 8 | 7 | 153 |
+| 360d | 2025-10-20 | 2 | 212 | 15 | 19 | 13 | 315 |
+| last720d | 2024-10-25 | 4 | 359 | 23 | 43 | 26 | 754 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:54:42Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:33:02Z._
