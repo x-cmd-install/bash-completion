@@ -30,9 +30,9 @@ x install bash-completion
 
 评分最低的几项:
 
+- **Code-Review** (4/10) — Found 9/19 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -42,7 +42,7 @@ x install bash-completion
 ## 发布
 
 - **最新版本**: `2.18.0` (2026-07-05)
-- **最近提交**: 2026-10-14
+- **最近提交**: 2026-10-15
 - **Release 含资产**: 1 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install bash-completion
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 961 · **开放 PR**: 69 · **已关闭 issue**: 359 · **开放 issue**: 159 · **提交数**: 7544
+- **发布数**: 17 · **已合并 PR**: 962 · **开放 PR**: 69 · **已关闭 issue**: 360 · **开放 issue**: 158 · **提交数**: 7545
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 7 | 4 | 0 | 1 | 9 |
-| last60d | 2026-08-16 | 0 | 11 | 7 | 0 | 3 | 14 |
-| 90d | 2026-07-17 | 0 | 42 | 8 | 3 | 4 | 54 |
-| last180d | 2026-04-18 | 1 | 99 | 13 | 8 | 7 | 153 |
-| 360d | 2025-10-20 | 2 | 212 | 15 | 19 | 13 | 315 |
-| last720d | 2024-10-25 | 4 | 359 | 23 | 43 | 26 | 754 |
+| 30d | 2026-09-16 | 0 | 7 | 4 | 0 | 1 | 10 |
+| last60d | 2026-08-17 | 0 | 12 | 7 | 0 | 2 | 15 |
+| 90d | 2026-07-18 | 0 | 42 | 8 | 2 | 4 | 55 |
+| last180d | 2026-04-19 | 1 | 97 | 13 | 8 | 7 | 154 |
+| 360d | 2025-10-21 | 2 | 212 | 15 | 19 | 13 | 316 |
+| last720d | 2024-10-26 | 4 | 360 | 23 | 44 | 25 | 755 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ bash-completion 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261015.yml` · 2026-10-15T05:33:03Z._
+_数据快照: `data/card/261016.yml` · 2026-10-16T05:32:59Z._
