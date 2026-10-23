@@ -51,24 +51,43 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 962 · **Open PRs**: 71 · **Closed issues**: 360 · **Open issues**: 158 · **Commits**: 7545
+- **Releases**: 17 · **Merged PRs**: 962 · **Open PRs**: 72 · **Closed issues**: 360 · **Open issues**: 158 · **Commits**: 7545
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 5 | 5 | 0 | 1 | 8 |
-| last60d | 2026-08-23 | 0 | 11 | 9 | 0 | 1 | 13 |
-| 90d | 2026-07-24 | 0 | 38 | 9 | 1 | 4 | 52 |
-| last180d | 2026-04-25 | 1 | 96 | 15 | 8 | 7 | 153 |
-| 360d | 2025-10-27 | 2 | 200 | 17 | 19 | 13 | 303 |
-| last720d | 2024-11-01 | 4 | 359 | 25 | 44 | 25 | 755 |
+| 30d | 2026-09-23 | 0 | 5 | 6 | 0 | 1 | 8 |
+| last60d | 2026-08-24 | 0 | 11 | 10 | 0 | 1 | 13 |
+| 90d | 2026-07-25 | 0 | 38 | 10 | 1 | 4 | 52 |
+| last180d | 2026-04-26 | 1 | 96 | 16 | 7 | 7 | 153 |
+| 360d | 2025-10-28 | 2 | 200 | 18 | 19 | 12 | 303 |
+| last720d | 2024-11-02 | 4 | 359 | 26 | 44 | 25 | 754 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [bash-completion-2.18.0.tar.xz](https://github.com/scop/bash-completion/releases/download/2.18.0/bash-completion-2.18.0.tar.xz) | 480.5 KiB | `other` |
+
+## Distribution status
+
+Reported by **198** distros on [repology.org](https://repology.org/project/bash-completion). **43** are ✅ on the latest upstream release, **137** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.16.0` | ⚠️ outdated |
+| Debian 14 | `2.16.0` | ⚠️ outdated |
+| Debian 13 | `2.16.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.16.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.11` | ⚠️ outdated |
+| Arch | `2.18.0` | ✅ latest |
+| Homebrew | `1.3` | 🪦 legacy |
+| Fedora rawhide | `2.18` | ✅ latest |
+| Nix unstable | `2.18.0` | ✅ latest |
+| Void | `2.16.0` | ⚠️ outdated |
+| Alpine edge | `2.17.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.18.0` | ✅ latest |
 
 ## Improve this data
 
@@ -79,4 +98,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:38:58Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:40:18Z._

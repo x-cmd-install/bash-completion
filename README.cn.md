@@ -51,24 +51,43 @@ x install bash-completion
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 962 · **开放 PR**: 71 · **已关闭 issue**: 360 · **开放 issue**: 158 · **提交数**: 7545
+- **发布数**: 17 · **已合并 PR**: 962 · **开放 PR**: 72 · **已关闭 issue**: 360 · **开放 issue**: 158 · **提交数**: 7545
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 5 | 5 | 0 | 1 | 8 |
-| last60d | 2026-08-23 | 0 | 11 | 9 | 0 | 1 | 13 |
-| 90d | 2026-07-24 | 0 | 38 | 9 | 1 | 4 | 52 |
-| last180d | 2026-04-25 | 1 | 96 | 15 | 8 | 7 | 153 |
-| 360d | 2025-10-27 | 2 | 200 | 17 | 19 | 13 | 303 |
-| last720d | 2024-11-01 | 4 | 359 | 25 | 44 | 25 | 755 |
+| 30d | 2026-09-23 | 0 | 5 | 6 | 0 | 1 | 8 |
+| last60d | 2026-08-24 | 0 | 11 | 10 | 0 | 1 | 13 |
+| 90d | 2026-07-25 | 0 | 38 | 10 | 1 | 4 | 52 |
+| last180d | 2026-04-26 | 1 | 96 | 16 | 7 | 7 | 153 |
+| 360d | 2025-10-28 | 2 | 200 | 18 | 19 | 12 | 303 |
+| last720d | 2024-11-02 | 4 | 359 | 26 | 44 | 25 | 754 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
 | [bash-completion-2.18.0.tar.xz](https://github.com/scop/bash-completion/releases/download/2.18.0/bash-completion-2.18.0.tar.xz) | 480.5 KiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/bash-completion) 上共有 **198** 个发行版报告此项目。**43** 个 ✅ 已是最新上游版本，**137** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2.16.0` | ⚠️ outdated |
+| Debian 14 | `2.16.0` | ⚠️ outdated |
+| Debian 13 | `2.16.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.16.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.11` | ⚠️ outdated |
+| Arch | `2.18.0` | ✅ latest |
+| Homebrew | `1.3` | 🪦 legacy |
+| Fedora rawhide | `2.18` | ✅ latest |
+| Nix unstable | `2.18.0` | ✅ latest |
+| Void | `2.16.0` | ⚠️ outdated |
+| Alpine edge | `2.17.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.18.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -79,4 +98,4 @@ bash-completion 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:39:00Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:40:19Z._
