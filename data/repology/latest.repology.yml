@@ -1,33 +1,16 @@
-- repo: almalinux_8
-  subrepo: BaseOS
-  srcname: bash-completion
-  visiblename: bash-completion
-  version: "2.7"
-  origversion: 1:2.7-5.el8
-  status: outdated
-  summary: Programmable completion for Bash
-  maintainers:
-    - packager@cloudlinux.com
-  licenses:
-    - GPLv2+
-  categories:
-    - Unspecified
-- repo: almalinux_9
-  subrepo: BaseOS
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: bash-completion
   binnames:
     - bash-completion
   visiblename: bash-completion
-  version: "2.11"
-  origversion: 1:2.11-5.el9
+  version: 2.16.0
+  origversion: 1:2.16.0-8
   status: outdated
-  summary: Programmable completion for Bash
   maintainers:
-    - packager@almalinux.org
-  licenses:
-    - GPLv2+
+    - gabriel@debian.org
   categories:
-    - Unspecified
+    - shells
 - repo: manjaro_testing
   subrepo: extra
   srcname: bash-completion
@@ -39,6 +22,28 @@
   summary: Programmable completion for the bash shell
   licenses:
     - GPL-2.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: bash-completion
+  binname: bash-completion
+  visiblename: bash-completion
+  version: 2.18.0
+  origversion: 2.18.0-1
+  status: newest
+  summary: Programmable completion for the bash shell
+  licenses:
+    - GPL-2.0-only
+- repo: deepin_25
+  subrepo: main
+  srcname: bash-completion
+  binnames:
+    - bash-completion
+  visiblename: bash-completion
+  version: 2.16.0
+  origversion: 1:2.16.0-7
+  status: outdated
+  maintainers:
+    - gabriel@debian.org
 - repo: adelie_current
   subrepo: user
   srcname: bash-completion
@@ -85,6 +90,47 @@
     - GPLv2+
   categories:
     - Development/Languages
+- repo: almalinux_8
+  subrepo: BaseOS
+  srcname: bash-completion
+  visiblename: bash-completion
+  version: "2.7"
+  origversion: 1:2.7-5.el8
+  status: outdated
+  summary: Programmable completion for Bash
+  maintainers:
+    - packager@cloudlinux.com
+  licenses:
+    - GPLv2+
+  categories:
+    - Unspecified
+- repo: almalinux_9
+  subrepo: BaseOS
+  srcname: bash-completion
+  binnames:
+    - bash-completion
+  visiblename: bash-completion
+  version: "2.11"
+  origversion: 1:2.11-5.el9
+  status: outdated
+  summary: Programmable completion for Bash
+  maintainers:
+    - packager@almalinux.org
+  licenses:
+    - GPLv2+
+  categories:
+    - Unspecified
+- repo: apertis_v2024
+  subrepo: v2024/development
+  srcname: bash-completion
+  binnames:
+    - bash-completion
+  visiblename: bash-completion
+  version: "2.11"
+  origversion: 1:2.11-6+apertis1
+  status: outdated
+  maintainers:
+    - gabriel@debian.org
 - repo: alpine_3_17
   subrepo: main
   srcname: bash-completion
@@ -332,17 +378,19 @@
     - achill@achill.org
   licenses:
     - GPL-2.0-or-later
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: devuan_4_0
+  subrepo: chimaera/main
   srcname: bash-completion
-  binname: bash-completion
+  binnames:
+    - bash-completion
   visiblename: bash-completion
-  version: 2.18.0
-  origversion: 2.18.0-1
-  status: newest
-  summary: Programmable completion for the bash shell
-  licenses:
-    - GPL-2.0-only
+  version: "2.11"
+  origversion: 1:2.11-2
+  status: outdated
+  maintainers:
+    - gabriel@debian.org
+  categories:
+    - shells
 - repo: alpine_3_24
   subrepo: main
   srcname: bash-completion
@@ -482,17 +530,6 @@
   visiblename: bash-completion
   version: "2.11"
   origversion: 1:2.11-2apertis1
-  status: outdated
-  maintainers:
-    - gabriel@debian.org
-- repo: apertis_v2024
-  subrepo: v2024/development
-  srcname: bash-completion
-  binnames:
-    - bash-completion
-  visiblename: bash-completion
-  version: "2.11"
-  origversion: 1:2.11-6+apertis1
   status: outdated
   maintainers:
     - gabriel@debian.org
@@ -651,6 +688,19 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
+- repo: deepin_23
+  subrepo: main
+  srcname: bash-completion
+  binnames:
+    - bash-completion
+  visiblename: bash-completion
+  version: "2.11"
+  origversion: 1:2.11-5
+  status: outdated
+  maintainers:
+    - gabriel@debian.org
+  categories:
+    - shells
 - repo: centos_stream_10
   subrepo: BaseOS
   srcname: bash-completion
@@ -811,56 +861,6 @@
   status: outdated
   maintainers:
     - gabriel@inconstante.eti.br
-- repo: deepin_23
-  subrepo: main
-  srcname: bash-completion
-  binnames:
-    - bash-completion
-  visiblename: bash-completion
-  version: "2.11"
-  origversion: 1:2.11-5
-  status: outdated
-  maintainers:
-    - gabriel@debian.org
-  categories:
-    - shells
-- repo: deepin_25
-  subrepo: main
-  srcname: bash-completion
-  binnames:
-    - bash-completion
-  visiblename: bash-completion
-  version: 2.16.0
-  origversion: 1:2.16.0-7
-  status: outdated
-  maintainers:
-    - gabriel@debian.org
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: bash-completion
-  binnames:
-    - bash-completion
-  visiblename: bash-completion
-  version: "2.11"
-  origversion: 1:2.11-2
-  status: outdated
-  maintainers:
-    - gabriel@debian.org
-  categories:
-    - shells
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: bash-completion
-  binnames:
-    - bash-completion
-  visiblename: bash-completion
-  version: 2.16.0
-  origversion: 1:2.16.0-8
-  status: outdated
-  maintainers:
-    - gabriel@debian.org
-  categories:
-    - shells
 - repo: distri
   srcname: bash-completion
   binname: bash-completion
@@ -1147,6 +1147,17 @@
   status: outdated
   categories:
     - app-shells
+- repo: nix_stable_24_05
+  srcname: bash-completion
+  visiblename: bash-completion
+  version: 2.13.0
+  origversion: null
+  status: outdated
+  summary: Programmable completion for the bash shell
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-2.0-or-later
 - repo: homebrew
   srcname: bash-completion
   visiblename: bash-completion
@@ -1264,6 +1275,17 @@
     - GPL-2+
   categories:
     - app-shells
+- repo: msys2_msys2
+  subrepo: x86_64
+  srcname: bash-completion
+  binname: bash-completion
+  visiblename: bash-completion
+  version: 2.18.0
+  origversion: 2.18.0-1
+  status: newest
+  summary: Programmable completion for the bash shell
+  licenses:
+    - spdx:GPL-2.0-only
 - repo: liguros_stable
   srcname: app-shells/bash-completion
   visiblename: app-shells/bash-completion
@@ -1402,28 +1424,6 @@
   summary: Programmable completion for the bash shell
   licenses:
     - GPL-2.0-only
-- repo: msys2_msys2
-  subrepo: x86_64
-  srcname: bash-completion
-  binname: bash-completion
-  visiblename: bash-completion
-  version: 2.18.0
-  origversion: 2.18.0-1
-  status: newest
-  summary: Programmable completion for the bash shell
-  licenses:
-    - spdx:GPL-2.0-only
-- repo: nix_stable_24_05
-  srcname: bash-completion
-  visiblename: bash-completion
-  version: 2.13.0
-  origversion: null
-  status: outdated
-  summary: Programmable completion for the bash shell
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-2.0-or-later
 - repo: nix_stable_24_11
   srcname: bash-completion
   visiblename: bash-completion
@@ -1569,6 +1569,19 @@
     - GPLv2+
   categories:
     - Unspecified
+- repo: ubuntu_24_04
+  subrepo: noble/main
+  srcname: bash-completion
+  binnames:
+    - bash-completion
+  visiblename: bash-completion
+  version: "2.11"
+  origversion: 1:2.11-8
+  status: outdated
+  maintainers:
+    - gabriel@debian.org
+  categories:
+    - shells
 - repo: openeuler_24_03_lts_sp1
   srcname: bash-completion
   binnames:
@@ -1728,20 +1741,6 @@
     - GPL
   categories:
     - Applications/Shells
-- repo: opensuse_shells_tumbleweed
-  srcname: bash-completion
-  binnames:
-    - bash-completion
-    - bash-completion-devel
-  visiblename: bash-completion
-  version: 2.18.0
-  origversion: 2.18.0-203.1
-  status: newest
-  summary: Programmable Completion for Bash
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
 - repo: openmandriva_6_0
   subrepo: main/release
   srcname: bash-completion
@@ -1759,6 +1758,19 @@
     - GPLv2
   categories:
     - Shells
+- repo: ubuntu_25_04
+  subrepo: plucky/main
+  srcname: bash-completion
+  binnames:
+    - bash-completion
+  visiblename: bash-completion
+  version: 2.16.0
+  origversion: 1:2.16.0-7
+  status: outdated
+  maintainers:
+    - gabriel@debian.org
+  categories:
+    - shells
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: bash-completion
@@ -1904,6 +1916,20 @@
   origversion: 2.11-161.1
   status: legacy
   summary: The Documentation of Programmable Completion for Bash
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: opensuse_shells_tumbleweed
+  srcname: bash-completion
+  binnames:
+    - bash-completion
+    - bash-completion-devel
+  visiblename: bash-completion
+  version: 2.18.0
+  origversion: 2.18.0-203.1
+  status: newest
+  summary: Programmable Completion for Bash
   licenses:
     - GPL-2.0-or-later
   categories:
@@ -2294,6 +2320,16 @@
     - fallback-mnt-spack@repology
   licenses:
     - GPL-2.0-or-later
+- repo: starkos
+  subrepo: main
+  srcname: bash-completion
+  visiblename: bash-completion
+  version: 2.18.0
+  origversion: 2.18.0-1
+  status: newest
+  summary: Programmable completion for the bash shell
+  maintainers:
+    - starkos@disroot.org
 - repo: t2
   srcname: bash-completion
   visiblename: bash-completion
@@ -2330,20 +2366,6 @@
   categories:
     - Unspecified
 - repo: ubuntu_14_04
-  subrepo: trusty/main
-  srcname: bash-completion
-  binnames:
-    - bash-completion
-  visiblename: bash-completion
-  version: "2.1"
-  origversion: 1:2.1-4
-  status: outdated
-  maintainers:
-    - bash-completion-devel@lists.alioth.debian.org
-    - dapal@debian.org
-  categories:
-    - shells
-- repo: ubuntu_14_04
   subrepo: trusty-updates/main
   srcname: bash-completion
   binnames:
@@ -2354,6 +2376,20 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+    - dapal@debian.org
+  categories:
+    - shells
+- repo: ubuntu_14_04
+  subrepo: trusty/main
+  srcname: bash-completion
+  binnames:
+    - bash-completion
+  visiblename: bash-completion
+  version: "2.1"
+  origversion: 1:2.1-4
+  status: outdated
+  maintainers:
+    - bash-completion-devel@lists.alioth.debian.org
     - dapal@debian.org
   categories:
     - shells
@@ -2422,32 +2458,6 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - shells
-- repo: ubuntu_24_04
-  subrepo: noble/main
-  srcname: bash-completion
-  binnames:
-    - bash-completion
-  visiblename: bash-completion
-  version: "2.11"
-  origversion: 1:2.11-8
-  status: outdated
-  maintainers:
-    - gabriel@debian.org
-  categories:
-    - shells
-- repo: ubuntu_25_04
-  subrepo: plucky/main
-  srcname: bash-completion
-  binnames:
-    - bash-completion
-  visiblename: bash-completion
-  version: 2.16.0
-  origversion: 1:2.16.0-7
-  status: outdated
-  maintainers:
-    - gabriel@debian.org
   categories:
     - shells
 - repo: ubuntu_25_10
