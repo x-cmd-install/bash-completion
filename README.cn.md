@@ -47,7 +47,7 @@ x install bash-completion
 
 ## 流行度
 
-- **Star**: 3,542 · **Fork**: 423 · **开放 issue**: 518 · **贡献者**: 184
+- **Star**: 3,543 · **Fork**: 423 · **开放 issue**: 518 · **贡献者**: 184
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install bash-completion
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 5 | 6 | 0 | 1 | 8 |
-| last60d | 2026-08-25 | 0 | 11 | 10 | 0 | 1 | 13 |
-| 90d | 2026-07-26 | 0 | 38 | 10 | 1 | 4 | 52 |
-| last180d | 2026-04-27 | 1 | 96 | 16 | 7 | 7 | 153 |
-| 360d | 2025-10-29 | 2 | 199 | 18 | 19 | 12 | 303 |
-| last720d | 2024-11-03 | 4 | 359 | 26 | 43 | 25 | 754 |
+| 30d | 2026-09-25 | 0 | 3 | 6 | 0 | 1 | 3 |
+| last60d | 2026-08-26 | 0 | 11 | 10 | 0 | 1 | 12 |
+| 90d | 2026-07-27 | 0 | 36 | 10 | 1 | 4 | 33 |
+| last180d | 2026-04-28 | 1 | 96 | 16 | 7 | 7 | 152 |
+| 360d | 2025-10-30 | 2 | 197 | 18 | 18 | 12 | 294 |
+| last720d | 2024-11-04 | 4 | 359 | 26 | 43 | 25 | 754 |
 
 ## Release 资产
 
@@ -72,7 +72,7 @@ x install bash-completion
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/bash-completion) 上共有 **199** 个发行版报告此项目。**44** 个 ✅ 已是最新上游版本，**137** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/bash-completion) 上共有 **199** 个发行版报告此项目。**47** 个 ✅ 已是最新上游版本，**134** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -86,7 +86,7 @@ x install bash-completion
 | Fedora rawhide | `2.18` | ✅ latest |
 | Nix unstable | `2.18.0` | ✅ latest |
 | Void | `2.16.0` | ⚠️ outdated |
-| Alpine edge | `2.17.0` | ⚠️ outdated |
+| Alpine edge | `2.18.0` | ✅ latest |
 | openSUSE Tumbleweed | `2.18.0` | ✅ latest |
 
 ## 改进这些数据
@@ -98,4 +98,4 @@ bash-completion 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261024.yml` · 2026-10-24T05:27:39Z._
+_数据快照: `data/card/261025.yml` · 2026-10-25T05:39:40Z._
