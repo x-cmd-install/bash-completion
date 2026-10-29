@@ -14,13 +14,13 @@ x install bash-completion
 
 ## 代码洞察
 
-合计: **42,041** 行代码（覆盖前 5 种语言、共 **1359** 个文件）。
+合计: **42,043** 行代码（覆盖前 5 种语言、共 **1359** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Bash | 25,898 | 2,433 | 3,172 | 551 |
 | Python | 12,695 | 286 | 3,313 | 775 |
-| Automake | 2,491 | 10 | 43 | 12 |
+| Automake | 2,493 | 10 | 43 | 12 |
 | Sh | 591 | 49 | 81 | 15 |
 | Dockerfile | 129 | 2 | 20 | 6 |
 
@@ -30,9 +30,9 @@ x install bash-completion
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 9/19 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 9/20 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
 
@@ -42,7 +42,7 @@ x install bash-completion
 ## 发布
 
 - **最新版本**: `2.18.0` (2026-07-05)
-- **最近提交**: 2026-10-26
+- **最近提交**: 2026-10-28
 - **Release 含资产**: 1 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install bash-completion
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 963 · **开放 PR**: 71 · **已关闭 issue**: 360 · **开放 issue**: 158 · **提交数**: 7546
+- **发布数**: 17 · **已合并 PR**: 965 · **开放 PR**: 72 · **已关闭 issue**: 360 · **开放 issue**: 158 · **提交数**: 7548
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 4 | 5 | 0 | 1 | 4 |
-| last60d | 2026-08-29 | 0 | 11 | 9 | 0 | 1 | 13 |
-| 90d | 2026-07-30 | 0 | 27 | 9 | 1 | 4 | 34 |
-| last180d | 2026-05-01 | 1 | 96 | 14 | 7 | 7 | 153 |
-| 360d | 2025-11-02 | 1 | 194 | 17 | 18 | 12 | 295 |
-| last720d | 2024-11-07 | 4 | 357 | 25 | 42 | 25 | 755 |
+| 30d | 2026-09-29 | 0 | 6 | 6 | 0 | 1 | 6 |
+| last60d | 2026-08-30 | 0 | 13 | 10 | 0 | 1 | 15 |
+| 90d | 2026-07-31 | 0 | 29 | 10 | 1 | 4 | 36 |
+| last180d | 2026-05-02 | 1 | 98 | 15 | 6 | 7 | 155 |
+| 360d | 2025-11-03 | 1 | 196 | 18 | 18 | 12 | 297 |
+| last720d | 2024-11-08 | 4 | 359 | 26 | 42 | 25 | 753 |
 
 ## Release 资产
 
@@ -98,4 +98,4 @@ bash-completion 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T06:46:42Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T06:48:59Z._
