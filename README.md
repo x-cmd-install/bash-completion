@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 6 | 6 | 0 | 1 | 6 |
-| last60d | 2026-08-30 | 0 | 13 | 10 | 0 | 1 | 15 |
-| 90d | 2026-07-31 | 0 | 29 | 10 | 1 | 4 | 36 |
-| last180d | 2026-05-02 | 1 | 98 | 15 | 6 | 7 | 155 |
-| 360d | 2025-11-03 | 1 | 196 | 18 | 18 | 12 | 297 |
-| last720d | 2024-11-08 | 4 | 359 | 26 | 42 | 25 | 753 |
+| 30d | 2026-09-30 | 0 | 6 | 4 | 0 | 0 | 6 |
+| last60d | 2026-08-31 | 0 | 13 | 10 | 0 | 1 | 15 |
+| 90d | 2026-08-01 | 0 | 27 | 10 | 1 | 4 | 36 |
+| last180d | 2026-05-03 | 1 | 98 | 14 | 6 | 7 | 155 |
+| 360d | 2025-11-04 | 1 | 196 | 18 | 17 | 12 | 297 |
+| last720d | 2024-11-09 | 4 | 359 | 26 | 42 | 25 | 747 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **199** distros on [repology.org](https://repology.org/project/bash-completion). **47** are ✅ on the latest upstream release, **134** are ⚠️ on an older version.
+Reported by **199** distros on [repology.org](https://repology.org/project/bash-completion). **48** are ✅ on the latest upstream release, **133** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,4 +98,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:48:59Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:52:07Z._
