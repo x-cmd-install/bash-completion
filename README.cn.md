@@ -32,7 +32,7 @@ x install bash-completion
 
 - **Code-Review** (4/10) — Found 9/20 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## 源代码
 
@@ -51,18 +51,18 @@ x install bash-completion
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 965 · **开放 PR**: 72 · **已关闭 issue**: 360 · **开放 issue**: 158 · **提交数**: 7548
+- **发布数**: 17 · **已合并 PR**: 965 · **开放 PR**: 73 · **已关闭 issue**: 360 · **开放 issue**: 158 · **提交数**: 7548
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 6 | 4 | 0 | 0 | 6 |
-| last60d | 2026-08-31 | 0 | 13 | 10 | 0 | 1 | 15 |
-| 90d | 2026-08-01 | 0 | 27 | 10 | 1 | 4 | 36 |
-| last180d | 2026-05-03 | 1 | 98 | 14 | 6 | 7 | 155 |
-| 360d | 2025-11-04 | 1 | 196 | 18 | 17 | 12 | 297 |
-| last720d | 2024-11-09 | 4 | 359 | 26 | 42 | 25 | 747 |
+| 30d | 2026-10-01 | 0 | 5 | 4 | 0 | 0 | 6 |
+| last60d | 2026-09-01 | 0 | 13 | 11 | 0 | 1 | 15 |
+| 90d | 2026-08-02 | 0 | 26 | 11 | 1 | 4 | 36 |
+| last180d | 2026-05-04 | 1 | 98 | 15 | 6 | 7 | 155 |
+| 360d | 2025-11-05 | 1 | 195 | 19 | 17 | 12 | 297 |
+| last720d | 2024-11-10 | 4 | 359 | 27 | 41 | 25 | 747 |
 
 ## Release 资产
 
@@ -98,4 +98,4 @@ bash-completion 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T06:52:08Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T06:33:29Z._
