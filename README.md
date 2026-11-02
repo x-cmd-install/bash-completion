@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,543 · **Forks**: 423 · **Open issues**: 518 · **Contributors**: 184
+- **Stars**: 3,544 · **Forks**: 425 · **Open issues**: 518 · **Contributors**: 184
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 965 · **Open PRs**: 73 · **Closed issues**: 360 · **Open issues**: 158 · **Commits**: 7548
+- **Releases**: 17 · **Merged PRs**: 965 · **Open PRs**: 75 · **Closed issues**: 360 · **Open issues**: 158 · **Commits**: 7548
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 5 | 4 | 0 | 0 | 6 |
-| last60d | 2026-09-02 | 0 | 12 | 11 | 0 | 1 | 14 |
-| 90d | 2026-08-03 | 0 | 26 | 11 | 1 | 4 | 25 |
-| last180d | 2026-05-05 | 1 | 97 | 15 | 5 | 7 | 154 |
-| 360d | 2025-11-06 | 1 | 194 | 19 | 17 | 12 | 295 |
-| last720d | 2024-11-11 | 4 | 359 | 27 | 40 | 25 | 747 |
+| 30d | 2026-10-03 | 0 | 5 | 6 | 0 | 0 | 6 |
+| last60d | 2026-09-03 | 0 | 12 | 12 | 0 | 1 | 14 |
+| 90d | 2026-08-04 | 0 | 26 | 13 | 0 | 4 | 25 |
+| last180d | 2026-05-06 | 1 | 97 | 17 | 5 | 7 | 154 |
+| 360d | 2025-11-07 | 1 | 194 | 21 | 17 | 11 | 295 |
+| last720d | 2024-11-12 | 4 | 359 | 29 | 40 | 25 | 747 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **199** distros on [repology.org](https://repology.org/project/bash-completion). **48** are ✅ on the latest upstream release, **133** are ⚠️ on an older version.
+Reported by **199** distros on [repology.org](https://repology.org/project/bash-completion). **46** are ✅ on the latest upstream release, **135** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,4 +98,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:59:56Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:12:02Z._
