@@ -14,12 +14,12 @@ x install bash-completion
 
 ## Code insight
 
-Total: **42,043** lines of code across **1359** files in the top 5 languages.
+Total: **42,050** lines of code across **1359** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Bash | 25,898 | 2,433 | 3,172 | 551 |
-| Python | 12,695 | 286 | 3,313 | 775 |
+| Python | 12,701 | 286 | 3,315 | 775 |
 | Automake | 2,493 | 10 | 43 | 12 |
 | Sh | 591 | 49 | 81 | 15 |
 | Dockerfile | 129 | 2 | 20 | 6 |
@@ -30,8 +30,8 @@ Overall score: **6.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 9/20 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.18.0` (2026-07-05)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-03
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 3,544 · **Forks**: 425 · **Open issues**: 518 · **Contributors**: 184
+- **Stars**: 3,543 · **Forks**: 425 · **Open issues**: 518 · **Contributors**: 185
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 965 · **Open PRs**: 75 · **Closed issues**: 360 · **Open issues**: 158 · **Commits**: 7548
+- **Releases**: 17 · **Merged PRs**: 966 · **Open PRs**: 74 · **Closed issues**: 360 · **Open issues**: 158 · **Commits**: 7551
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 5 | 6 | 0 | 0 | 6 |
-| last60d | 2026-09-04 | 0 | 12 | 12 | 0 | 1 | 14 |
-| 90d | 2026-08-05 | 0 | 25 | 13 | 0 | 4 | 25 |
-| last180d | 2026-05-07 | 1 | 97 | 17 | 5 | 7 | 154 |
-| 360d | 2025-11-08 | 1 | 194 | 21 | 17 | 11 | 295 |
-| last720d | 2024-11-13 | 4 | 357 | 29 | 40 | 25 | 747 |
+| 30d | 2026-10-05 | 0 | 6 | 5 | 0 | 0 | 8 |
+| last60d | 2026-09-05 | 0 | 13 | 11 | 0 | 1 | 16 |
+| 90d | 2026-08-06 | 0 | 24 | 12 | 0 | 4 | 27 |
+| last180d | 2026-05-08 | 1 | 98 | 16 | 5 | 7 | 156 |
+| 360d | 2025-11-09 | 1 | 195 | 20 | 17 | 11 | 297 |
+| last720d | 2024-11-14 | 4 | 357 | 28 | 40 | 25 | 746 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:03:15Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:29:51Z._
