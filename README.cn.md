@@ -30,9 +30,9 @@ x install bash-completion
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 10/21 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 10/22 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -42,27 +42,27 @@ x install bash-completion
 ## 发布
 
 - **最新版本**: `2.18.0` (2026-07-05)
-- **最近提交**: 2026-11-10
+- **最近提交**: 2026-11-12
 - **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 3,543 · **Fork**: 427 · **开放 issue**: 519 · **贡献者**: 185
+- **Star**: 3,544 · **Fork**: 427 · **开放 issue**: 519 · **贡献者**: 185
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 968 · **开放 PR**: 78 · **已关闭 issue**: 360 · **开放 issue**: 159 · **提交数**: 7553
+- **发布数**: 17 · **已合并 PR**: 969 · **开放 PR**: 81 · **已关闭 issue**: 360 · **开放 issue**: 159 · **提交数**: 7554
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 8 | 9 | 0 | 1 | 7 |
-| last60d | 2026-09-12 | 0 | 15 | 14 | 0 | 2 | 18 |
-| 90d | 2026-08-13 | 0 | 18 | 16 | 0 | 4 | 22 |
-| last180d | 2026-05-15 | 1 | 99 | 19 | 5 | 8 | 155 |
-| 360d | 2025-11-16 | 1 | 190 | 24 | 16 | 12 | 295 |
-| last720d | 2024-11-21 | 4 | 358 | 32 | 40 | 24 | 740 |
+| 30d | 2026-10-13 | 0 | 9 | 12 | 0 | 1 | 8 |
+| last60d | 2026-09-13 | 0 | 16 | 16 | 0 | 2 | 19 |
+| 90d | 2026-08-14 | 0 | 19 | 19 | 0 | 4 | 23 |
+| last180d | 2026-05-16 | 1 | 100 | 22 | 5 | 8 | 156 |
+| 360d | 2025-11-17 | 1 | 191 | 27 | 16 | 12 | 296 |
+| last720d | 2024-11-22 | 4 | 358 | 35 | 40 | 24 | 741 |
 
 ## Release 资产
 
@@ -72,7 +72,7 @@ x install bash-completion
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/bash-completion) 上共有 **199** 个发行版报告此项目。**48** 个 ✅ 已是最新上游版本，**133** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/bash-completion) 上共有 **198** 个发行版报告此项目。**48** 个 ✅ 已是最新上游版本，**132** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -98,4 +98,4 @@ bash-completion 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261111.yml` · 2026-11-11T07:15:42Z._
+_数据快照: `data/card/261112.yml` · 2026-11-12T08:33:21Z._

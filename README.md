@@ -30,9 +30,9 @@ Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 10/21 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 10/22 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.18.0` (2026-07-05)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-12
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 3,543 · **Forks**: 427 · **Open issues**: 519 · **Contributors**: 185
+- **Stars**: 3,544 · **Forks**: 427 · **Open issues**: 519 · **Contributors**: 185
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 968 · **Open PRs**: 78 · **Closed issues**: 360 · **Open issues**: 159 · **Commits**: 7553
+- **Releases**: 17 · **Merged PRs**: 969 · **Open PRs**: 81 · **Closed issues**: 360 · **Open issues**: 159 · **Commits**: 7554
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 8 | 9 | 0 | 1 | 7 |
-| last60d | 2026-09-12 | 0 | 15 | 14 | 0 | 2 | 18 |
-| 90d | 2026-08-13 | 0 | 18 | 16 | 0 | 4 | 22 |
-| last180d | 2026-05-15 | 1 | 99 | 19 | 5 | 8 | 155 |
-| 360d | 2025-11-16 | 1 | 190 | 24 | 16 | 12 | 295 |
-| last720d | 2024-11-21 | 4 | 358 | 32 | 40 | 24 | 740 |
+| 30d | 2026-10-13 | 0 | 9 | 12 | 0 | 1 | 8 |
+| last60d | 2026-09-13 | 0 | 16 | 16 | 0 | 2 | 19 |
+| 90d | 2026-08-14 | 0 | 19 | 19 | 0 | 4 | 23 |
+| last180d | 2026-05-16 | 1 | 100 | 22 | 5 | 8 | 156 |
+| 360d | 2025-11-17 | 1 | 191 | 27 | 16 | 12 | 296 |
+| last720d | 2024-11-22 | 4 | 358 | 35 | 40 | 24 | 741 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **199** distros on [repology.org](https://repology.org/project/bash-completion). **48** are ✅ on the latest upstream release, **133** are ⚠️ on an older version.
+Reported by **198** distros on [repology.org](https://repology.org/project/bash-completion). **48** are ✅ on the latest upstream release, **132** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,4 +98,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:15:41Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:33:20Z._
