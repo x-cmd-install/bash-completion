@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (4/10) — Found 10/22 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 969 · **Open PRs**: 82 · **Closed issues**: 360 · **Open issues**: 159 · **Commits**: 7554
+- **Releases**: 17 · **Merged PRs**: 969 · **Open PRs**: 83 · **Closed issues**: 361 · **Open issues**: 158 · **Commits**: 7554
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 8 | 13 | 0 | 1 | 8 |
-| last60d | 2026-09-14 | 0 | 16 | 17 | 0 | 2 | 19 |
-| 90d | 2026-08-15 | 0 | 19 | 20 | 0 | 4 | 23 |
-| last180d | 2026-05-17 | 1 | 100 | 23 | 5 | 8 | 156 |
-| 360d | 2025-11-18 | 1 | 191 | 28 | 16 | 12 | 296 |
-| last720d | 2024-11-23 | 4 | 358 | 36 | 40 | 24 | 741 |
+| 30d | 2026-10-15 | 0 | 7 | 14 | 1 | 0 | 8 |
+| last60d | 2026-09-15 | 0 | 15 | 18 | 1 | 1 | 19 |
+| 90d | 2026-08-16 | 0 | 19 | 21 | 1 | 3 | 23 |
+| last180d | 2026-05-18 | 1 | 100 | 24 | 6 | 7 | 156 |
+| 360d | 2025-11-19 | 1 | 191 | 29 | 17 | 11 | 296 |
+| last720d | 2024-11-24 | 4 | 358 | 37 | 41 | 23 | 741 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:10:43Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:53:01Z._
