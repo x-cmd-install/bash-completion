@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,544 · **Forks**: 427 · **Open issues**: 519 · **Contributors**: 185
+- **Stars**: 3,545 · **Forks**: 428 · **Open issues**: 519 · **Contributors**: 185
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 969 · **Open PRs**: 83 · **Closed issues**: 361 · **Open issues**: 158 · **Commits**: 7554
+- **Releases**: 17 · **Merged PRs**: 969 · **Open PRs**: 85 · **Closed issues**: 361 · **Open issues**: 158 · **Commits**: 7554
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 7 | 14 | 1 | 0 | 8 |
-| last60d | 2026-09-15 | 0 | 15 | 18 | 1 | 1 | 19 |
-| 90d | 2026-08-16 | 0 | 19 | 21 | 1 | 3 | 23 |
-| last180d | 2026-05-18 | 1 | 100 | 24 | 6 | 7 | 156 |
-| 360d | 2025-11-19 | 1 | 191 | 29 | 17 | 11 | 296 |
-| last720d | 2024-11-24 | 4 | 358 | 37 | 41 | 23 | 741 |
+| 30d | 2026-10-16 | 0 | 7 | 16 | 1 | 0 | 7 |
+| last60d | 2026-09-16 | 0 | 14 | 20 | 1 | 1 | 17 |
+| 90d | 2026-08-17 | 0 | 19 | 23 | 1 | 2 | 21 |
+| last180d | 2026-05-19 | 1 | 100 | 26 | 6 | 7 | 154 |
+| 360d | 2025-11-20 | 1 | 190 | 31 | 17 | 11 | 290 |
+| last720d | 2024-11-25 | 3 | 357 | 39 | 41 | 23 | 737 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:53:01Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:00:16Z._
