@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,546 · **Forks**: 428 · **Open issues**: 519 · **Contributors**: 186
+- **Stars**: 3,547 · **Forks**: 428 · **Open issues**: 520 · **Contributors**: 186
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 970 · **Open PRs**: 85 · **Closed issues**: 361 · **Open issues**: 158 · **Commits**: 7555
+- **Releases**: 17 · **Merged PRs**: 970 · **Open PRs**: 89 · **Closed issues**: 361 · **Open issues**: 159 · **Commits**: 7555
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 8 | 16 | 1 | 0 | 8 |
-| last60d | 2026-09-17 | 0 | 15 | 20 | 1 | 1 | 18 |
-| 90d | 2026-08-18 | 0 | 20 | 23 | 1 | 2 | 22 |
-| last180d | 2026-05-20 | 1 | 101 | 26 | 6 | 7 | 155 |
-| 360d | 2025-11-21 | 1 | 191 | 31 | 17 | 11 | 291 |
-| last720d | 2024-11-26 | 3 | 355 | 39 | 41 | 22 | 738 |
+| 30d | 2026-10-20 | 0 | 8 | 18 | 1 | 1 | 8 |
+| last60d | 2026-09-20 | 0 | 14 | 24 | 1 | 2 | 18 |
+| 90d | 2026-08-21 | 0 | 19 | 27 | 1 | 2 | 22 |
+| last180d | 2026-05-23 | 1 | 100 | 30 | 6 | 8 | 155 |
+| 360d | 2025-11-24 | 1 | 189 | 35 | 17 | 12 | 291 |
+| last720d | 2024-11-29 | 3 | 351 | 42 | 40 | 22 | 734 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **198** distros on [repology.org](https://repology.org/project/bash-completion). **48** are ✅ on the latest upstream release, **132** are ⚠️ on an older version.
+Reported by **198** distros on [repology.org](https://repology.org/project/bash-completion). **49** are ✅ on the latest upstream release, **131** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,7 +82,7 @@ Reported by **198** distros on [repology.org](https://repology.org/project/bash-
 | Ubuntu 26.04 LTS | `2.16.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.11` | ⚠️ outdated |
 | Arch | `2.18.0` | ✅ latest |
-| Homebrew | `1.3` | 🪦 legacy |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.18` | ✅ latest |
 | Nix unstable | `2.18.0` | ✅ latest |
 | Void | `2.16.0` | ⚠️ outdated |
@@ -98,4 +98,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:06:58Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:23:52Z._
