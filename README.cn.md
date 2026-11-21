@@ -32,7 +32,7 @@ x install bash-completion
 
 - **Code-Review** (4/10) — Found 10/22 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install bash-completion
 
 ## 流行度
 
-- **Star**: 3,547 · **Fork**: 429 · **开放 issue**: 520 · **贡献者**: 186
+- **Star**: 3,546 · **Fork**: 429 · **开放 issue**: 520 · **贡献者**: 186
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install bash-completion
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 9 | 17 | 1 | 1 | 9 |
-| last60d | 2026-09-21 | 0 | 15 | 22 | 1 | 2 | 19 |
-| 90d | 2026-08-22 | 0 | 20 | 26 | 1 | 2 | 23 |
-| last180d | 2026-05-24 | 1 | 101 | 29 | 6 | 8 | 156 |
-| 360d | 2025-11-25 | 1 | 189 | 34 | 17 | 12 | 292 |
-| last720d | 2024-11-30 | 3 | 352 | 41 | 40 | 22 | 731 |
+| 30d | 2026-10-22 | 0 | 8 | 17 | 1 | 1 | 9 |
+| last60d | 2026-09-22 | 0 | 14 | 22 | 1 | 2 | 19 |
+| 90d | 2026-08-23 | 0 | 20 | 26 | 1 | 2 | 23 |
+| last180d | 2026-05-25 | 1 | 101 | 29 | 6 | 8 | 156 |
+| 360d | 2025-11-26 | 1 | 188 | 34 | 17 | 12 | 292 |
+| last720d | 2024-12-01 | 3 | 350 | 41 | 40 | 22 | 731 |
 
 ## Release 资产
 
@@ -72,7 +72,7 @@ x install bash-completion
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/bash-completion) 上共有 **198** 个发行版报告此项目。**49** 个 ✅ 已是最新上游版本，**131** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/bash-completion) 上共有 **197** 个发行版报告此项目。**49** 个 ✅ 已是最新上游版本，**130** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -82,7 +82,7 @@ x install bash-completion
 | Ubuntu 26.04 LTS | `2.16.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.11` | ⚠️ outdated |
 | Arch | `2.18.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.3` | 🪦 legacy |
 | Fedora rawhide | `2.18` | ✅ latest |
 | Nix unstable | `2.18.0` | ✅ latest |
 | Void | `2.16.0` | ⚠️ outdated |
@@ -98,4 +98,4 @@ bash-completion 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T10:17:33Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T07:44:50Z._
