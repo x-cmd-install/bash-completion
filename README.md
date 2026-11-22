@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 8 | 17 | 1 | 1 | 9 |
-| last60d | 2026-09-22 | 0 | 14 | 22 | 1 | 2 | 19 |
-| 90d | 2026-08-23 | 0 | 20 | 26 | 1 | 2 | 23 |
-| last180d | 2026-05-25 | 1 | 101 | 29 | 6 | 8 | 156 |
-| 360d | 2025-11-26 | 1 | 188 | 34 | 17 | 12 | 292 |
-| last720d | 2024-12-01 | 3 | 350 | 41 | 40 | 22 | 731 |
+| 30d | 2026-10-23 | 0 | 8 | 17 | 1 | 1 | 9 |
+| last60d | 2026-09-23 | 0 | 14 | 22 | 1 | 2 | 19 |
+| 90d | 2026-08-24 | 0 | 20 | 26 | 1 | 2 | 23 |
+| last180d | 2026-05-26 | 1 | 101 | 29 | 6 | 8 | 156 |
+| 360d | 2025-11-27 | 1 | 188 | 34 | 17 | 12 | 292 |
+| last720d | 2024-12-02 | 3 | 350 | 41 | 40 | 22 | 731 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **197** distros on [repology.org](https://repology.org/project/bash-completion). **49** are ✅ on the latest upstream release, **130** are ⚠️ on an older version.
+Reported by **197** distros on [repology.org](https://repology.org/project/bash-completion). **50** are ✅ on the latest upstream release, **129** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,7 +82,7 @@ Reported by **197** distros on [repology.org](https://repology.org/project/bash-
 | Ubuntu 26.04 LTS | `2.16.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.11` | ⚠️ outdated |
 | Arch | `2.18.0` | ✅ latest |
-| Homebrew | `1.3` | 🪦 legacy |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.18` | ✅ latest |
 | Nix unstable | `2.18.0` | ✅ latest |
 | Void | `2.16.0` | ⚠️ outdated |
@@ -98,4 +98,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:44:46Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:45:26Z._
