@@ -14,12 +14,12 @@ x install bash-completion
 
 ## Code insight
 
-Total: **42,070** lines of code across **1360** files in the top 5 languages.
+Total: **42,084** lines of code across **1360** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Bash | 25,902 | 2,436 | 3,173 | 552 |
-| Python | 12,718 | 286 | 3,318 | 775 |
+| Python | 12,732 | 286 | 3,323 | 775 |
 | Automake | 2,492 | 10 | 43 | 12 |
 | Sh | 591 | 49 | 81 | 15 |
 | Dockerfile | 129 | 2 | 20 | 6 |
@@ -30,9 +30,9 @@ Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 10/22 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 8/19 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.18.0` (2026-07-05)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-22
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 3,546 · **Forks**: 429 · **Open issues**: 520 · **Contributors**: 186
+- **Stars**: 3,548 · **Forks**: 429 · **Open issues**: 520 · **Contributors**: 186
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 971 · **Open PRs**: 88 · **Closed issues**: 361 · **Open issues**: 159 · **Commits**: 7556
+- **Releases**: 17 · **Merged PRs**: 972 · **Open PRs**: 87 · **Closed issues**: 361 · **Open issues**: 159 · **Commits**: 7560
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 8 | 17 | 1 | 1 | 9 |
-| last60d | 2026-09-23 | 0 | 14 | 22 | 1 | 2 | 19 |
-| 90d | 2026-08-24 | 0 | 20 | 26 | 1 | 2 | 23 |
-| last180d | 2026-05-26 | 1 | 101 | 29 | 6 | 8 | 156 |
-| 360d | 2025-11-27 | 1 | 188 | 34 | 17 | 12 | 292 |
-| last720d | 2024-12-02 | 3 | 350 | 41 | 40 | 22 | 731 |
+| 30d | 2026-10-24 | 0 | 9 | 16 | 1 | 1 | 11 |
+| last60d | 2026-09-24 | 0 | 15 | 21 | 1 | 2 | 19 |
+| 90d | 2026-08-25 | 0 | 21 | 25 | 1 | 2 | 26 |
+| last180d | 2026-05-27 | 1 | 102 | 28 | 6 | 7 | 153 |
+| 360d | 2025-11-28 | 1 | 189 | 33 | 17 | 12 | 291 |
+| last720d | 2024-12-03 | 3 | 349 | 40 | 40 | 22 | 735 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **197** distros on [repology.org](https://repology.org/project/bash-completion). **50** are ✅ on the latest upstream release, **129** are ⚠️ on an older version.
+Reported by **197** distros on [repology.org](https://repology.org/project/bash-completion). **51** are ✅ on the latest upstream release, **128** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,7 +82,7 @@ Reported by **197** distros on [repology.org](https://repology.org/project/bash-
 | Ubuntu 26.04 LTS | `2.16.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.11` | ⚠️ outdated |
 | Arch | `2.18.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.3` | 🪦 legacy |
 | Fedora rawhide | `2.18` | ✅ latest |
 | Nix unstable | `2.18.0` | ✅ latest |
 | Void | `2.16.0` | ⚠️ outdated |
@@ -98,4 +98,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:45:26Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:57:54Z._
