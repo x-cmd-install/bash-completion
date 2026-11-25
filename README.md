@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,549 · **Forks**: 429 · **Open issues**: 520 · **Contributors**: 186
+- **Stars**: 3,550 · **Forks**: 429 · **Open issues**: 520 · **Contributors**: 186
 
 ## Totals (cumulative)
 
@@ -57,37 +57,18 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 9 | 17 | 1 | 1 | 11 |
-| last60d | 2026-09-25 | 0 | 13 | 22 | 1 | 2 | 19 |
-| 90d | 2026-08-26 | 0 | 21 | 26 | 1 | 2 | 26 |
-| last180d | 2026-05-28 | 1 | 102 | 29 | 6 | 7 | 153 |
-| 360d | 2025-11-29 | 1 | 189 | 34 | 17 | 12 | 291 |
-| last720d | 2024-12-04 | 3 | 349 | 41 | 40 | 22 | 732 |
+| 30d | 2026-10-26 | 0 | 9 | 17 | 1 | 1 | 11 |
+| last60d | 2026-09-26 | 0 | 13 | 22 | 1 | 2 | 19 |
+| 90d | 2026-08-27 | 0 | 21 | 26 | 1 | 2 | 26 |
+| last180d | 2026-05-29 | 1 | 99 | 29 | 6 | 7 | 153 |
+| 360d | 2025-11-30 | 1 | 188 | 34 | 17 | 12 | 291 |
+| last720d | 2024-12-05 | 3 | 349 | 41 | 40 | 22 | 732 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [bash-completion-2.18.0.tar.xz](https://github.com/scop/bash-completion/releases/download/2.18.0/bash-completion-2.18.0.tar.xz) | 480.5 KiB | `other` |
-
-## Distribution status
-
-Reported by **197** distros on [repology.org](https://repology.org/project/bash-completion). **51** are ✅ on the latest upstream release, **128** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.16.0` | ⚠️ outdated |
-| Debian 14 | `2.16.0` | ⚠️ outdated |
-| Debian 13 | `2.16.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.16.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.11` | ⚠️ outdated |
-| Arch | `2.18.0` | ✅ latest |
-| Homebrew | `1.3` | 🪦 legacy |
-| Fedora rawhide | `2.18` | ✅ latest |
-| Nix unstable | `2.18.0` | ✅ latest |
-| Void | `2.16.0` | ⚠️ outdated |
-| Alpine edge | `2.18.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.18.0` | ✅ latest |
 
 ## Improve this data
 
@@ -98,4 +79,4 @@ Install metadata for bash-completion lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:38:51Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:30:45Z._
